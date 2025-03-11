@@ -1,4 +1,4 @@
-# Fake_news_detection
+# Fake news detection
 
 This project implements a Fake News Detection system using Logistic Regression, a simple yet effective machine learning model for binary text classification. The goal is to distinguish between fake and real news articles based on their textual content.
 
